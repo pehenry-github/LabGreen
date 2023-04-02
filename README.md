@@ -23,7 +23,7 @@ Modifications qui seront validées :
         nouveau fichier : README.md
 
 # git commit    : Commiter dans le Repo Git sur MA MACHINE  (pas sur GitHiub)
- rubilaxe@debian11:~/work/LabGreen # git commit -m "Rajout de README.md"
+ rubilaxe@debian11:~/work/LabGreen # git commit -am "Rajout de README.md"
  [main 9f273b8] Rajout de README.md
   Committer: rubilaxe <rubilaxe@debian-BULLSEYE-live-builder-AMD64>
  Votre nom et votre adresse courriel ont été configurés automatiquement en se
